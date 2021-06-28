@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:provider/pages/page1_tab1.dart';
-import 'package:provider/pages/page2_tab1.dart';
-import 'package:provider/widgets/camera_button_tab1.dart';
-import 'package:provider/widgets/custom_navigation.dart';
+import 'package:providers/pages/page1_tab1.dart';
+import 'package:providers/pages/page2_tab1.dart';
+import 'package:providers/widgets/camera_button_tab1.dart';
+import 'package:providers/widgets/custom_navigation.dart';
 
 class HomeTab extends StatelessWidget {
   @override
