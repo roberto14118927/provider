@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:provider/widgets/camera_button.dart';
+import 'package:provider/widgets/camera_button_tab1.dart';
 import 'package:provider/widgets/custom_navigation.dart';
 
 class Tab1 extends StatelessWidget {
@@ -14,7 +14,7 @@ class Tab1 extends StatelessWidget {
         child: Text('Tab1'),
       ),
       bottomNavigationBar: CustomNavigations(),
-      floatingActionButton: CameraButton(),
+      floatingActionButton: CameraButtonTab1(),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
     );
   }

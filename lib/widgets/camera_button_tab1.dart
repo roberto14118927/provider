@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class CameraButton extends StatelessWidget {
+class CameraButtonTab1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return FloatingActionButton(

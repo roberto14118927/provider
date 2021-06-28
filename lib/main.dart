@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Provider',
-      initialRoute: 'tab1',
+      initialRoute: 'tab2',
       routes: {
         'tab1': (_) => Tab1(),
         'tab2': (_) => Tab2(),
